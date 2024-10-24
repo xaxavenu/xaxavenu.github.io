@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://xaxavenu.github.io/sitemap/sitemap_index.xaxavenu
+Sitemap: https://xaxavenu.github.io/vrl/sitemap_index.xaxavenu
+Sitemap: https://xaxavenu.github.io/SNO/sitemap_index.xaxavenu
+Sitemap: https://xaxavenu.github.io/jKX/sitemap_index.xaxavenu
+Sitemap: https://xaxavenu.github.io/oQS/sitemap_index.xaxavenu
+Sitemap: https://xaxavenu.github.io/kqi/sitemap_index.xaxavenu
+Sitemap: https://xaxavenu.github.io/nCU/sitemap_index.xaxavenu
+Sitemap: https://xaxavenu.github.io/KTA/sitemap_index.xaxavenu
+Sitemap: https://xaxavenu.github.io/OZi/sitemap_index.xaxavenu
+Sitemap: https://xaxavenu.github.io/Ghb/sitemap_index.xaxavenu
+Sitemap: https://xaxavenu.github.io/QXM/sitemap_index.xaxavenu
+Sitemap: https://xaxavenu.github.io/lvL/sitemap_index.xaxavenu
+Sitemap: https://xaxavenu.github.io/qdA/sitemap_index.xaxavenu
+Sitemap: https://xaxavenu.github.io/FyO/sitemap_index.xaxavenu
+Sitemap: https://xaxavenu.github.io/Xrt/sitemap_index.xaxavenu
+Sitemap: https://xaxavenu.github.io/Qnm/sitemap_index.xaxavenu
+Sitemap: https://xaxavenu.github.io/SED/sitemap_index.xaxavenu
+Sitemap: https://xaxavenu.github.io/gSG/sitemap_index.xaxavenu
+Sitemap: https://xaxavenu.github.io/tvp/sitemap_index.xaxavenu
+Sitemap: https://xaxavenu.github.io/ZrG/sitemap_index.xaxavenu
+Sitemap: https://xaxavenu.github.io/unx/sitemap_index.xaxavenu
